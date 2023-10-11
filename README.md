@@ -8,19 +8,21 @@
 
 <h3>I make stuff with</h3>
 <p>
-
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-003c6c?style=flat-square&logo=html5&logoColor=white" />
    <img alt="css" src="https://img.shields.io/badge/-CSS-004881?style=flat-square&logo=css3&logoColor=white" />
    <img alt="js" src="https://img.shields.io/badge/-JavaScript-005497?style=flat-square&logo=javascript&logoColor=white" />
    <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-0060ac?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="react" src="https://img.shields.io/badge/-React-0060ac?style=flat-square&logo=react&logoColor=white" />
    <img alt="nextjs" src="https://img.shields.io/badge/-NextJS-006cc2?style=flat-square&logo=nextdotjs&logoColor=white" />
-   <img alt="redux" src="https://img.shields.io/badge/-Redux-0078d7?style=flat-square&logo=redux&logoColor=white" />    
-   <img alt="antd" src="https://img.shields.io/badge/-Antd-1a86db?style=flat-square&logo=antdesign&logoColor=white" />
-   <img alt="prettier" src="https://img.shields.io/badge/-Prettier-3393df?style=flat-square&logo=prettier&logoColor=white" />
-   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-4da1e3?style=flat-square&logo=react&logoColor=white" />
-   <img alt="styled-components" src="https://img.shields.io/badge/-Styled Components-66aee7?style=flat-square&logo=styledcomponents&logoColor=white" />
-   <img alt="jest" src="https://img.shields.io/badge/-Jest-80bceb?style=flat-square&logo=jest&logoColor=white" />
+   
+</p>
+<p>
+   <img alt="redux" src="https://img.shields.io/badge/-Redux-003c6c?style=flat-square&logo=redux&logoColor=white" />    
+   <img alt="antd" src="https://img.shields.io/badge/-Antd-004881?style=flat-square&logo=antdesign&logoColor=white" />
+   <img alt="prettier" src="https://img.shields.io/badge/-Prettier-005497?style=flat-square&logo=prettier&logoColor=white" />
+   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-0060ac?style=flat-square&logo=react&logoColor=white" />
+   <img alt="styled-components" src="https://img.shields.io/badge/-Styled Components-0060ac?style=flat-square&logo=styledcomponents&logoColor=white" />
+   <img alt="jest" src="https://img.shields.io/badge/-Jest-006cc2?style=flat-square&logo=jest&logoColor=white" />
 </p>
 <hr />
 
