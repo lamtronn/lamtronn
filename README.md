@@ -1,8 +1,7 @@
 <h1>Xin chào!👋</h1>
 
-<p>Welcome to my page! I'm <strong>Lam Nguyen</bold>, Front-end Developer and a Soul-like player based in Vietnam 🇻🇳 💻📸🎮📖🎧😹🌱</p>
+<p>I'm <strong>Lam Nguyen</strong>, <strong>Front-end Developer</strong> and a <strong>Soul-like player</strong> based in Vietnam 🇻🇳 💻📸🎮📖🎧😹🌱</p>
 
-<br />
 <h3>I make stuff with</h3>
 <p>
    <!--    Colors palette here -->
@@ -22,6 +21,9 @@
 </p>
 <hr />
 
-<h3>Social network</h3>
-<a href="https://www.instagram.com/lamtronn" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fa7e1e.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<h3>Side projects</h3>
+<p>Updating...</p>
+
+<h3>Social media</h3>
+<a href="https://www.instagram.com/lamtronn" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-003c6c.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lam-nguyen-637829142" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
