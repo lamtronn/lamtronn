@@ -1,11 +1,14 @@
 <h1>Xin chào!👋</h1>
-
-<p>I'm <strong>Lam Nguyen</strong>, <strong>Front-end Developer</strong> and a <strong>Soul-like player</strong> based in Vietnam 🇻🇳 💻📸🎮📖🎧😹🌱</p>
+<!--    Colors palette here -->
+<!--    https://maketintsandshades.com/#0078D7 -->
+<p>I'm <strong>Lam Nguyen</strong>, a <strong>Front-end Developer</strong> and a <strong>Soul-like player</strong> based in Vietnam 🇻🇳 💻📸🎮📖🎧😹🌱</p>
+<p>
+   <img alt="email" src="https://img.shields.io/badge/-lamtrn98@gmail.com-003c6c?style=flat-square&logo=gmail&logoColor=white" />
+</p>
 
 <h3>I make stuff with</h3>
 <p>
-   <!--    Colors palette here -->
-   <!--    https://maketintsandshades.com/#0078D7 -->
+
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-003c6c?style=flat-square&logo=html5&logoColor=white" />
    <img alt="css" src="https://img.shields.io/badge/-CSS-004881?style=flat-square&logo=css3&logoColor=white" />
    <img alt="js" src="https://img.shields.io/badge/-JavaScript-005497?style=flat-square&logo=javascript&logoColor=white" />
