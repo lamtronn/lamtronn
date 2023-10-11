@@ -1,7 +1,7 @@
 <h1>Xin chào!👋</h1>
 <!--    Colors palette here -->
 <!--    https://maketintsandshades.com/#0078D7 -->
-<p>I'm <strong>Lam Nguyen</strong>, a <strong>Front-end Developer</strong> and a <strong>Soul-like player</strong> based in Vietnam 🇻🇳 💻📸🎮📖🎧😹🌱</p>
+<p>I'm <strong>Lam Nguyen</strong>, a <strong>Front-end Developer</strong> and a <strong>Soul-like player</strong> based in Vietnam 🇻🇳 💻 📸 🎮 📖 🎧 😹 🌱 </p>
 <p>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-FF5733?style=flat-square&logo=html5&logoColor=white" />
    <img alt="css" src="https://img.shields.io/badge/-CSS-3349FF?style=flat-square&logo=css3&logoColor=white" />
