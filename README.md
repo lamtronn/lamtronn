@@ -29,6 +29,10 @@
 <h3>Side projects</h3>
 <p>Updating...</p>
 
+<h3>My UI/UX Design portfolio</h3>
+<a href="https://www.behance.net/lamtronn">Click here</a>
+
+
 <h3>Social media</h3>
 <a href="https://www.instagram.com/lamtronn" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-003c6c.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lam-nguyen-637829142" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
