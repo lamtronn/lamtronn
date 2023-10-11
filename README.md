@@ -1,9 +1,11 @@
 <h1>Xin chào!👋</h1>
 
 <p>Welcome to my page! I'm <strong>Lam Nguyen</bold>, Front-end Developer and a Soul-like player based in Vietnam 🇻🇳</p>
-
+<br />
 <h3>I make stuff with</h3>
 <p>
+   <!--    Colors palette here -->
+   <!--    https://maketintsandshades.com/#0078D7 -->
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-003c6c?style=flat-square&logo=html5&logoColor=white" />
    <img alt="css" src="https://img.shields.io/badge/-CSS-004881?style=flat-square&logo=css3&logoColor=white" />
    <img alt="js" src="https://img.shields.io/badge/-JavaScript-005497?style=flat-square&logo=javascript&logoColor=white" />
@@ -16,7 +18,9 @@
    <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-4da1e3?style=flat-square&logo=react&logoColor=white" />
    <img alt="styled-components" src="https://img.shields.io/badge/-Styled Components-66aee7?style=flat-square&logo=styledcomponents&logoColor=white" />
    <img alt="jest" src="https://img.shields.io/badge/-Jest-80bceb?style=flat-square&logo=jest&logoColor=white" />
-
-           
-
 </p>
+<hr />
+
+<h3>Social network</h3>
+<a href="https://www.instagram.com/lamtronn" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fa7e1e.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lam-nguyen-637829142" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
