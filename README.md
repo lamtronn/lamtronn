@@ -1,6 +1,7 @@
 <h1>Xin chào!👋</h1>
 
-<p>Welcome to my page! I'm <strong>Lam Nguyen</bold>, Front-end Developer and a Soul-like player based in Vietnam 🇻🇳</p>
+<p>Welcome to my page! I'm <strong>Lam Nguyen</bold>, Front-end Developer and a Soul-like player based in Vietnam 🇻🇳 💻📸🎮📖🎧😹🌱</p>
+
 <br />
 <h3>I make stuff with</h3>
 <p>
