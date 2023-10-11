@@ -29,7 +29,7 @@
 <h3>Side projects</h3>
 <p>Updating...</p>
 
-<h3>My UI/UX Design portfolio</h3>
+<h3>UI/UX Designer portfolio</h3>
 <a href="https://www.behance.net/lamtronn" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-003c6c.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>
 
 <h3>Social media</h3>
