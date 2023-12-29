@@ -9,10 +9,12 @@
    <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-0060ac?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="react" src="https://img.shields.io/badge/-React-05B5CD?style=flat-square&logo=react&logoColor=white" />
    <img alt="nextjs" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-   <img alt="redux" src="https://img.shields.io/badge/-Redux-7205CD?style=flat-square&logo=redux&logoColor=white" />    
+   <img alt="redux" src="https://img.shields.io/badge/-Redux-7205CD?style=flat-square&logo=redux&logoColor=white" />  
+   <img alt="zustand" src="https://img.shields.io/badge/-Zustand-964B00?style=flat-square&logo=redux&logoColor=white" />  
    <img alt="antd" src="https://img.shields.io/badge/-Antd-DC7AA5?style=flat-square&logo=antdesign&logoColor=white" />
    <img alt="prettier" src="https://img.shields.io/badge/-Prettier-223C4A?style=flat-square&logo=prettier&logoColor=white" />
    <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-6E11BF?style=flat-square&logo=react&logoColor=white" />
+      <img alt="tailwind" src="https://img.shields.io/badge/-Tailwind-#06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
    <img alt="styled-components" src="https://img.shields.io/badge/-Styled Components-BFB411?style=flat-square&logo=styledcomponents&logoColor=white" />
    <img alt="jest" src="https://img.shields.io/badge/-Jest-B2697C?style=flat-square&logo=jest&logoColor=white" />
 </p>
