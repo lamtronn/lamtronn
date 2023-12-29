@@ -21,7 +21,7 @@
 
 <h3>Stuff I made during downtime</h3>
 
-| Project  | Things I used |
+| This one...  | ...is made from |
 | ------------- | ------------- |
 | <a href="https://github.com/lamtronn/weather-app/" target="_blank">Weather app</a>  | <img alt="nextjs" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-0060ac?style=flat-square&logo=typescript&logoColor=white" /> <img alt="redux" src="https://img.shields.io/badge/-Redux-7205CD?style=flat-square&logo=redux&logoColor=white" />     |
 | Updating...  |
