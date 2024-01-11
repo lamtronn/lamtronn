@@ -1,7 +1,7 @@
 <h1>Xin chào!👋</h1>
 <!--    Colors palette here -->
 <!--    https://maketintsandshades.com/#0078D7 -->
-<p>I'm <strong>Lam Nguyen</strong>, a <strong>Front-end Developer</strong> and a <strong>Souls-borne player</strong> based in Vietnam 🇻🇳 💻 📸 🎮 📖 🎧 😹 🌱 </p>
+<p>I'm <strong>Lam Nguyen</strong>, a <strong>Front-end Developer</strong> based in Vietnam 🇻🇳 💻 📸 🎮 📖 🎧 😹 🌱 </p>
 <p>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-FF5733?style=flat-square&logo=html5&logoColor=white" />
    <img alt="css" src="https://img.shields.io/badge/-CSS-3349FF?style=flat-square&logo=css3&logoColor=white" />
@@ -21,11 +21,12 @@
 
 <hr />
 
-<h3>Stuff I made during downtime</h3>
+<h3>Side projects</h3>
 
 | This one...  | ...is made from |
 | ------------- | ------------- |
 | <a href="https://github.com/lamtronn/weather-app/" target="_blank">Weather app</a>  | <img alt="nextjs" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-0060ac?style=flat-square&logo=typescript&logoColor=white" /> <img alt="redux" src="https://img.shields.io/badge/-Redux-7205CD?style=flat-square&logo=redux&logoColor=white" />     |
+| <a href="https://github.com/lamtronn/weather-app/" target="_blank">Flash card (Bachelor graduation thesis)</a>  | <img alt="nextjs" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="redux" src="https://img.shields.io/badge/-Redux-7205CD?style=flat-square&logo=redux&logoColor=white" />     |
 | Updating...  |
 
 <h3>UI/UX Designer portfolio</h3>
